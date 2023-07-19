@@ -10,7 +10,7 @@ def create_response(
     data: dict = None, status: int = 200, message: str = ""
 ) -> Tuple[Response, int]:
     """Wraps response in a consistent format throughout the API.
-    
+
     Format inspired by https://medium.com/@shazow/how-i-design-json-api-responses-71900f00f2db
     Modifications included:
     - make success a boolean since there's only 2 values

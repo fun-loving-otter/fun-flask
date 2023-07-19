@@ -1,4 +1,4 @@
-# Flask Exercise
+# Flask
 
 ![Hack4Impact](https://uiuc.hack4impact.org/img/colored-logo.png)
 
